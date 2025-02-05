@@ -20,14 +20,14 @@ Este es un pequeño proyecto web que permite agregar nombres a una lista y reali
 
 1. Clona este repositorio:
    ```sh
-   git clone https://github.com/tu-usuario/amigo-secreto.git
+   git clone https://github.com/GuilleQuinteros/amigoSecretoChallenge.git
    ```
 2. Abre el archivo `index.html` en tu navegador.
 
 ## 📜 Estructura del proyecto
 
 ```
-📂 amigo-secreto
+📂 CHALLENGE-AMIGO-SECRETO_ESP-MAIN
 ├── 📄 index.html   # Estructura principal de la página
 ├── 📄 style.css    # Estilos de la aplicación
 ├── 📄 app.js       # Lógica de la aplicación
